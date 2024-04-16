@@ -1,2 +1,2 @@
 # Currency-Converter
-Currency Converter built with HTML, CSS and Javascript.
+The project built with web technologies including HTML, CSS and JavaScript, performs currency conversions using open-source API.
